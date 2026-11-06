@@ -1,0 +1,31 @@
+# Markdown files
+*.md
+**/*.md
+
+# Dependencies and build outputs
+target/
+**/target/
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.angular/
+**/.angular/
+
+# Environment files
+.env
+platform/.env
+
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
